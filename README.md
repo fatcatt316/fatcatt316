@@ -1,5 +1,6 @@
-![Joe's github stats](https://github-readme-stats.vercel.app/api?username=fatcatt316&theme=buefy&show_icons=true&hide=issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatcatt316&theme=buefy&layout=compact&langs_count=8&hide=html,css&hide_border=true)
+![Joe's github stats](https://github-readme-stats.vercel.app/api?username=fatcatt316&theme=dark&show_icons=true&hide=issues&count_private=true&hide_border=true) 
 
+Hey, I'm Joe. I'm a software engineer, author, and proud papa. If you want to find out more about me, head on over to [PeckYeah](https://peckyeah.com)!
 
 <!--
 **fatcatt316/fatcatt316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
