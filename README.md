@@ -1,8 +1,8 @@
-![Joe's github stats](https://github-readme-stats.vercel.app/api?username=fatcatt316&theme=dark&show_icons=true&hide=issues&count_private=true&hide_border=true) 
-
 <p>:wave: Hey, I'm Joe. I'm a software engineer, author, and proud papa.</p>
 
 <p>If you want to find out more about me, head on over to [PeckYeah](https://peckyeah.com)!</p>
+
+![Joe's github stats](https://github-readme-stats.vercel.app/api?username=fatcatt316&theme=dark&show_icons=true&hide=issues&count_private=true&hide_border=true) 
 
 <!--
 **fatcatt316/fatcatt316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
