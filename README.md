@@ -1,4 +1,4 @@
-<p>:wave: Hey, I'm Joe. I'm a software engineer, author, and proud papa.</p>
+<p>:wave: Howdy, I'm Joe. I'm a software engineer, author, and proud papa.</p>
 
 <p>If you want to find out more about me, head on over to [PeckYeah](https://peckyeah.com)!</p>
 
