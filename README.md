@@ -2,6 +2,8 @@
 
 <p>If you want to find out more about me, head on over to [PeckYeah](https://peckyeah.com)!</p>
 
+<p>If you'd like to check out my <a href="https://peckyeah.gumroad.com/l/datadump">software development book</a>, feel free to check it out!</p>
+
 ![Joe's github stats](https://github-readme-stats.vercel.app/api?username=fatcatt316&theme=dark&show_icons=true&hide=issues&count_private=true&hide_border=true) 
 
 <!--
